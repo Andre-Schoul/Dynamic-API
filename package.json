@@ -4,7 +4,7 @@
   "scripts": {},
   "nodemonConfig": {
     "ignore": [
-      "backend/api/*"
+      "api/*"
     ]
   },
   "private": true,
